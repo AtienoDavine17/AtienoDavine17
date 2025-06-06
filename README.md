@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @AtienoDavine
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Linux & Version control
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: atienodavine4@gmail.com
+- 😄 Pronouns:
 - ⚡ Fun fact: I get curious about literally everything!
 
 <!---
